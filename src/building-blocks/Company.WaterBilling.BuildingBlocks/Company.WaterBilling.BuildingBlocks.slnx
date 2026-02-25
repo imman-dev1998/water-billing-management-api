@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../Company.WaterBilling.BuildingBlocks.Application/Company.WaterBilling.BuildingBlocks.Application.csproj" />
+  <Project Path="../Company.WaterBilling.BuildingBlocks.Domain/Company.WaterBilling.BuildingBlocks.Domain.csproj" />
+  <Project Path="../Company.WaterBilling.BuildingBlocks.Infrastructure/Company.WaterBilling.BuildingBlocks.Infrastructure.csproj" />
+  <Project Path="../Company.WaterBilling.BuildingBlocks.Testing/Company.WaterBilling.BuildingBlocks.Testing.csproj" />
+  <Project Path="../Company.WaterBilling.BuildingBlocks.WebApi/Company.WaterBilling.BuildingBlocks.WebApi.csproj" />
+  <Project Path="../Company.WaterBilling.BuildingBlocks.Worker/Company.WaterBilling.BuildingBlocks.Worker.csproj" />
+</Solution>
