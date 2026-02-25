@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Company.WaterBilling.BuildingBlocks.Domain\Company.WaterBilling.BuildingBlocks.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
